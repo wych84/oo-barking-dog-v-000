@@ -14,11 +14,7 @@ class Dog
   end
 
   def bark(when_called)
-    @bark = puts "woof!"
-  end
-  
-  def bark
-    @bark
+    puts "woof!"
   end
   
 end
