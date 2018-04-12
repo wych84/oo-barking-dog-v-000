@@ -13,12 +13,8 @@ class Dog
     @name
   end
 
-  def bark(when_called)
+  def bark(name)
     puts "woof!"
-  end
-  
-  def bark
-    bark
   end
   
 end
