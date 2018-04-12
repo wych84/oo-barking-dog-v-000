@@ -13,8 +13,8 @@ class Dog
     @name
   end
 
-  def bark(bark)
-    @bark = bark
+  def bark(bark_sound)
+    @bark = bark_sound
   end
   
   def bark
